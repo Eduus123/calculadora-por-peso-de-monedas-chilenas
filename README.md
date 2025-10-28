@@ -1,9 +1,41 @@
-# Calculadora por peso de Monedas Chilenas
+# Calculadora de Monedas Chilenas.
 
-Este programa calcula cuántas monedas tienes en total basándose en el peso total medido.  
-Soporta las monedas de $10, $50, $100 (antiguas y nuevas) y $500 CLP.
+Este programa calcula cuántas monedas chilenas tienes basándose en el peso total en gramos que ingreses para cada tipo de moneda.
+Fue creado como un proyecto personal y educativo para practicar Python y resolver un problema cotidiano.
 
-## Uso
-Ejecuta el programa y escribe el peso total de cada tipo de moneda en la barra correspondiente.  
-El programa te mostrará cuántas monedas tienes y el total en pesos chilenos.
+## Funcionalidad
 
+* Soporta monedas de $10, $50, $100 y $500 CLP.
+* Permite ingresar el peso total de cada tipo de moneda.
+* Calcula automáticamente cuántas monedas tienes de cada tipo.
+* Muestra el total general en pesos chilenos.
+
+## Monedas de $100: antigua y nueva
+
+El programa considera la diferencia entre los dos tipos de monedas de $100 existentes:
+
+* **Moneda antigua**
+* **Moneda nueva**
+
+Al ingresar los pesos, el programa ajusta el cálculo dependiendo de cuál tipo de moneda utilices.
+
+## Ejemplo de uso
+
+```
+Ingresa el peso total de las monedas de $100 (antiguas): 250g
+→ Tienes aproximadamente 10 monedas de $100 (antiguas).
+```
+
+## Agradecimientos
+
+Gracias por descargar y probar este pequeño proyecto.
+Fue desarrollado con interés por aprender más sobre Python y la automatización de tareas simples.
+Cualquier sugerencia o mejora es bienvenida.
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT, lo que significa que puedes usarlo, modificarlo y compartirlo libremente, siempre que mantengas los créditos originales.
+
+---
+
+Versión: 1.0
