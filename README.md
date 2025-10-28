@@ -22,8 +22,8 @@ Al ingresar los pesos, el programa ajusta el cálculo dependiendo de cuál tipo 
 ## Ejemplo de uso
 
 ```
-Ingresa el peso total de las monedas de $100 (antiguas): 250g
-→ Tienes aproximadamente 10 monedas de $100 (antiguas).
+Ingresa el peso total de las monedas de $100 (antiguas): 900 g
+→ Tienes $10.000 pesos. 
 ```
 
 ## Agradecimientos
@@ -37,5 +37,6 @@ Cualquier sugerencia o mejora es bienvenida.
 Este proyecto se distribuye bajo la licencia MIT, lo que significa que puedes usarlo, modificarlo y compartirlo libremente, siempre que mantengas los créditos originales.
 
 ---
+
 
 Versión: 1.0
