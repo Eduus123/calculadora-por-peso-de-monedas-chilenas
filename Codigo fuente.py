@@ -118,4 +118,3 @@ resultado_label.pack(pady=10)
 
 ventana.mainloop()
 
-# Que wea estai leyendo chuchetumare? 
